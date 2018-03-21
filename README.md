@@ -8,7 +8,7 @@ Find out more at [https://phpmd.org](https://phpmd.org/) or [github.com/phpmd/ph
 
 ## Installation
 * Copy the `phpmd.xml` file into your project root.
-* Install phpmd `composer require phpmd/phpmd` or globally with `composer global require phpmd/phpmd`
+* Install phpmd `composer require --dev phpmd/phpmd` or globally with `composer global require phpmd/phpmd`
 
 ## Check your code on the command line
 ```bash
