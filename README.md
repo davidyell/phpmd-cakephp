@@ -3,7 +3,8 @@ A php mess detector ruleset file which is more compatible with CakePHP 3
 
 ## Mess Detector?
 The Mess Detector project aims to automatically find problems with your code, and highlight them to improve code quality.
-Find out more at [https://phpmd.org/](https://phpmd.org/)
+
+Find out more at [https://phpmd.org/](https://phpmd.org) or [https://github.com/phpmd/phpmd](github.com/phpmd/phpmd)
 
 ## Installation
 * Copy the `phpmd.xml` file into your project root.
